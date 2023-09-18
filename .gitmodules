@@ -1,0 +1,3 @@
+[submodule "parsedmarc"]
+	path = parsedmarc
+	url = https://github.com/domainaware/parsedmarc.git
